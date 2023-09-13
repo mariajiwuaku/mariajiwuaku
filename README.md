@@ -12,6 +12,7 @@ A passionate and strong-willed frontend developer from West Africa.
 
 Languages and Tools:
 html5 css3 bootstrap javascript react tailwindcss
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajiwuaku)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajiwuaku)](https://github.com/anuraghazra/github-readme-stats)
 
