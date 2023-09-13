@@ -11,6 +11,10 @@ A passionate and strong-willed front-end developer from West Africa.
 - ⚡ Fun fact: I love to Travel.
 - Languages: html5
 
+- <a href="URL_REDIRECT" target="blank"><img align="center" src="#0A66C2" height="100" /></a>
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajiwuaku)](https://github.com/anuraghazra/github-readme-stats)
 
