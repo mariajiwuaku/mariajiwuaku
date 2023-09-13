@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Maria-goretti.
 
-<!--
-**mariajiwuaku/mariajiwuaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate and strong-willed frontend developer from West Africa.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Frontend projects
+- 🌱 I’m currently learning TailwindCss and React.Js
+- 👯 I’m looking to collaborate on open sources and job opportunities.
+- 💬 Ask me about HTML, CSS, Bootstrap, Javascript, and WordPress.
+- 📫 How to reach me: mariagorettiduruigbo@gmail.com
+- 😄 Pronouns: Beautiful She.
+- ⚡ Fun fact: I love to Travel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Languages and Tools:
+html5 css3 bootstrap javascript react tailwindcss
+
