@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Maria-goretti.
 
-A passionate and strong-willed frontend developer from West Africa.
+A passionate and strong-willed front-end developer from West Africa.
 
 - 🔭 I’m currently working on Frontend projects
 - 🌱 I’m currently learning TailwindCss and React.Js
@@ -9,6 +9,7 @@ A passionate and strong-willed frontend developer from West Africa.
 - 📫 How to reach me: mariagorettiduruigbo@gmail.com
 - 😄 Pronouns: Beautiful She.
 - ⚡ Fun fact: I love to Travel.
+- Languages: html5
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajiwuaku)](https://github.com/anuraghazra/github-readme-stats)
