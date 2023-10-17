@@ -10,8 +10,8 @@ A passionate and strong-willed front-end developer from West Africa.
 - 😄 Pronouns: Beautiful She.
 - ⚡ Fun fact: I love to Travel.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajiwuaku)](https://github.com/mariajiwuaku/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajiwuaku)](https://github.com/mariajiwuaku/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajiwuaku)](https://github.com/mariajiwuaku/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajiwuaku)](https://github.com/Mariajiwuaku/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mariajiwuaku)](https://git.io/streak-stats)
